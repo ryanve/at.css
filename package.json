@@ -1,0 +1,26 @@
+{
+  "name": "at.css",
+  "version": "0.0.0",
+  "description": "Functional CSS centering classes",
+  "author": "Ryan Van Etten",
+  "license": "ISC",
+  "main": "at.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanve/at.css.git"
+  },
+  "keywords": [
+    "css",
+    "functional-css",
+    "centering",
+    "position",
+    "layout",
+    "middle",
+    "center",
+    "centre"
+  ],
+  "bugs": {
+    "url": "https://github.com/ryanve/at.css/issues"
+  },
+  "homepage": "https://github.com/ryanve/at.css"
+}
