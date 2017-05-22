@@ -3,8 +3,8 @@ Functional CSS position transform classes
 
 ## classes
 
-- `.at-middle` vertical center
-- `.at-centre` vertical and horizontal center
+- `.middle` vertical center
+- `.centre` vertical and horizontal center
 
 ## setup
 
